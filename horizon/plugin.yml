@@ -1,0 +1,7 @@
+name: Horizon
+version: 1.0.1
+author: parlabarbedeMerlin
+main: fr.merlin.horizon.Main
+commands:
+  horizonitem:
+    permission: use.horizon.horizon item

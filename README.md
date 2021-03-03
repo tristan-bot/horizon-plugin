@@ -43,9 +43,9 @@ Cet Item ce dorp sur les blocks ci-dessus avec un taux de drop de 0.001%. ![item
 
 
 ## 4.Prochains ajouts
-- [ ] Enderite
+- [X] Enderite
   - [x] item
-  - [ ] Armure
-  - [ ] outils
-  - [ ] Armes
+  - [X] Armure
+  - [X] outils
+  - [X] Armes
 - [ ] Wiki
